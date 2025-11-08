@@ -144,3 +144,4 @@ Messages limited to last 100 per room.
 Socket.io reconnection enabled.
 
 Room-based typing and online status for efficiency.
+
